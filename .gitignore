@@ -1,0 +1,10 @@
+# Ignore Python virtual environments
+heartvm/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore OS or editor-specific files
+.DS_Store
+*.swp
